@@ -3,7 +3,7 @@
         "swiftmailer/swiftmailer": "5.4.*",
         "respect/validation": "1.0.1"
     },
-    
+
     "autoload": {
     	"psr-4": {
     		"Facilities\\":"../../_src/",
