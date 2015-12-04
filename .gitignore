@@ -1,0 +1,8 @@
+.gitignore
+.project
+.settings/*
+_notes/*
+*/_notes/*
+*/*/_notes/*
+composer.phar
+/vendor/
